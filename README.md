@@ -2,7 +2,7 @@
 
 Pizza Place data analysis to find trends and patterns in pizza sales.
 
-<img src = "[https://upload.wikimedia.org/wikipedia/uk/9/90/RT_Screenshot.png](https://images.deliveryhero.io/image/stores-glovo/stores/48677a75a5594fb8e3b1bdbe50e690e3496f00c7c23e54e88450fb8dccc3cd91?t=W3siYXV0byI6eyJxIjoibG93In19LHsicmVzaXplIjp7ImhlaWdodCI6MjI1fX1d)">
+<img src = "https://images.deliveryhero.io/image/stores-glovo/stores/48677a75a5594fb8e3b1bdbe50e690e3496f00c7c23e54e88450fb8dccc3cd91?t=W3siYXV0byI6eyJxIjoibG93In19LHsicmVzaXplIjp7ImhlaWdodCI6MjI1fX1d">
 
 ### **Summary**
 An overview of pizza sales data from January 2015 to December 2015 is given in this report. To find trends and patterns in pizza sales, data was gathered from pizza joints across the United States and analysed.
